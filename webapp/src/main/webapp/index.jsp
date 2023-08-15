@@ -79,11 +79,11 @@ body, html {
         <div class="w3-display-topleft w3-padding-large w3-xlarge"><strong>Umam</strong> <i class="fab fa-dev"></i></div>
         <div class="w3-display-topright w3-padding-large w3-small"></div>
         <div class="w3-display-middle">
-                <h1 class="w3-jumbo w3-animate-top">Long Bootcamp with Kang Nasir</h1>
+                <h1 class="w3-jumbo w3-animate-top">DevOps dummy java website</h1>
                 <p>Build your dream together with your favorite Linux Distro XD</p>
 
         </div>
-        <footer class="w3-display-bottomleft w3-padding-large">Made by Umam</i></a> & powered by ❤
+        <footer class="w3-display-bottomleft w3-padding-large">Made by Umam</i></a>
         </footer>
 </div>
 <noscript>
